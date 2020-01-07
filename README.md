@@ -4,6 +4,7 @@ mac下实在没有可以用的直播app，个人作品，有问题请留言。
 
 v1.0.0
 存在问题，弹幕不稳定
-![屏幕快照 2019-11-13 下午1.52.17.png](https://sm.ms/image/TPYmxDEOp1NzXHV)  
-![屏幕快照 2019-11-13 下午1.52.33.png](https://sm.ms/image/fdSbENw2vZT5gI7)
+![img1.png](https://sm.ms/image/TPYmxDEOp1NzXHV)  
+
+![img2.png](https://sm.ms/image/fdSbENw2vZT5gI7)
 
